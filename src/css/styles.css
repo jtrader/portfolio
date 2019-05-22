@@ -291,7 +291,7 @@ p {
 /* Form CSS credit: https://codeconvey.com/creating-simple-html5-contact-form/*/
 .ccform {
    margin: 0 auto;
-    width: 800px;
+    width: 600px;
 }
 .ccfield-prepend{
 	margin-bottom:10px;
@@ -299,12 +299,14 @@ p {
 }
 
 .ccform-addon{
-	color:#FF8A00; 
+	color:#17A0FB; 
 	float:left;
-	padding:8px;
-	width:8%;
+    padding:8px;
+    margin: 5px;
+	width:35px;
 	background:#FFFFFF;
-	text-align:center;	
+    text-align:center;
+    border-radius: 50%;	
 }
 
 .ccformfield {
@@ -315,7 +317,8 @@ p {
 	width:91.9%;
 	display:block;
 	font-family: 'Lato',Arial,sans-serif;
-	font-size:14px;
+    font-size:14px;
+    border-radius: 5px;
 }
 
 .ccformfield {
@@ -324,12 +327,13 @@ p {
 .ccbtn{
 	display:block;
 	border:none;
-	background:#FF8A00;
+	background:#17A0FB;
 	color:#FFFFFF;
 	padding:12px 25px;
 	cursor:pointer;
 	text-decoration:none;
-	font-weight:bold;
+    font-weight:bold;
+    border-radius: 5px;
 }
 .ccbtn:hover{
 	background:#FF8A00;

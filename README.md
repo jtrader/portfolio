@@ -33,7 +33,7 @@ This sitemap illustrates the different sections of my portfolio website.
 ## Target Audience
 My primary target audience is potential employers, site aims to illustrate profieciency in design, CSS and HTML by example. It also appeals to potential employers by listing additional technologies that potential employers would be looking for in an future employee.
 ## Tech Stack
-Technologies used include CSS and HTML. In addition the contact form utilizes a third-party app called formspree.io. A few additional programs were used in the design process this included Figma, Moodzer and an online image editor.
+Technologies used include CSS and HTML. In addition the contact form utilizes a third-party app called formspree.io. A few additional programs were used in the design process this included Figma, Moodzer and Pixlr.
 # Design 
 
 ## Design Process
